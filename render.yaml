@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: lntu-osvita-calculator
+    name: lntu-clean-calculator
     env: node
     buildCommand: npm install
     startCommand: npm start

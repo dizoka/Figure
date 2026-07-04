@@ -1,1 +1,8 @@
-{"scripts":{"start":"node server.js"},"dependencies":{"axios":"latest","cheerio":"latest","express":"latest"},"engines":{"node":">=18"}}
+{
+  "name": "lntu-clean-calculator",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.18.3" },
+  "engines": { "node": ">=18" }
+}
